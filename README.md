@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ijklmopffs/Notifications-Page)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://notifications-page-anew.netlify.app/)
 
 ## My process
 
